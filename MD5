@@ -1,9 +1,9 @@
-201cb0fedab706a984367b9aab3ed892 *DESCRIPTION
+d3ab303a9d4ff760aa6ad22e08a8c933 *DESCRIPTION
 2a0170c609864658efa0988149f65784 *NAMESPACE
 4a14553735a00300fc18bb6a226f5c8c *R/Wcorrected.R
 aae69a87d24d25883a7035c119b5316c *R/Wqls.R
 abfd7986464f6aff235ce494efc5f07d *R/afcSKAT.R
-02f70b7d69ab6e6367038da6fe7fe936 *build/partial.rdb
+d83192294800ddc2dcff76030219e839 *build/partial.rdb
 8b755e2b0ee17e9fafca7bba69fe7176 *data/cor.afc.rda
 044a190b43969d423d8861caa6e2f225 *data/geno.afc.rda
 b1593df880d71aafb8f2e611374d58ae *data/kin.afc.rda
